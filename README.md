@@ -28,4 +28,4 @@ Based on the analysis findings, we've realized a positive correlationship betwee
 Therefore, here I conclude the following measures that could potentially attain revenue growth: 
 #### 1. Promote utilizations by advertizing Pyber in suburban and rural area.
 #### 2. Employ more Pyber drivers in suburban and rural. 
-#### 3. Increase the fare base by high demand area. 
+#### 3. Increase the fare base in high demand area. 
